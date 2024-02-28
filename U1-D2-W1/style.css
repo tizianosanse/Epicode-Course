@@ -1,3 +1,42 @@
-span {
-  padding: 10rem;
+body {
+  background-color: black;
+}
+
+#header {
+  display: flex;
+
+  height: 150px;
+}
+.logo {
+  margin-left: 120px;
+  cursor: pointer;
+}
+.icon {
+  color: aliceblue;
+  align-self: center;
+  cursor: pointer;
+}
+h2 {
+  color: aliceblue;
+}
+h4 {
+  color: aliceblue;
+  margin-left: 30%;
+  margin-top: 50px;
+}
+table {
+  color: aliceblue;
+  margin: auto;
+  margin-top: 3%;
+  width: 50%;
+}
+#video {
+  margin-left: 17%;
+}
+.tit2 {
+  color: aliceblue;
+  margin-left: 17%;
+}
+.testo {
+  margin-left: 17%;
 }

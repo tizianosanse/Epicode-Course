@@ -1,16 +1,15 @@
-<<<<<<< HEAD
 body {
   background-color: black;
 }
 
 #header {
-  display: flex;
-
   height: 150px;
+  display: flex;
+  justify-content: space-around;
 }
 .logo {
-  margin-left: 120px;
   cursor: pointer;
+  align-self: center;
 }
 .icon {
   color: aliceblue;
@@ -19,11 +18,13 @@ body {
 }
 h2 {
   color: aliceblue;
+  margin-top: 100px;
+  margin-left: 50px;
 }
 h4 {
   color: aliceblue;
   margin-left: 30%;
-  margin-top: 50px;
+  margin-top: 150px;
 }
 table {
   color: aliceblue;
@@ -41,8 +42,10 @@ table {
 .testo {
   margin-left: 17%;
 }
-=======
 span {
   padding: 10rem;
 }
->>>>>>> f99acfa80d0680bfca2caad3f12e09748a622b9b
+.correlati {
+  color: aliceblue;
+  margin-left: 17%;
+}

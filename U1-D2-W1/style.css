@@ -16,6 +16,14 @@ body {
   align-self: center;
   cursor: pointer;
 }
+.icon a {
+  text-decoration: none !important;
+  color: aliceblue;
+}
+.icon a:hover {
+  text-decoration: none !important;
+  color: rgb(237, 8, 0);
+}
 h2 {
   color: aliceblue;
   margin-top: 100px;
